@@ -48,6 +48,43 @@ namespace project_main
 
         }
 
+        private void textBox2_Enter(object sender, EventArgs e)
+        {
+            if(textBox2.Text == "Username")
+            {
+                textBox2.Text = "";
+                textBox2.ForeColor= Color.Black;
+            }
+        }
+
+        private void textBox2_Leave(object sender, EventArgs e)
+        {
+            if (textBox2.Text == "")
+            {
+                textBox2.Text = "Username";
+                textBox2.ForeColor= Color.Silver;
+            }
+        }
+
+        private void textBox1_Enter(object sender, EventArgs e)
+        {
+            if (textBox1.Text == "Password")
+            {
+                textBox1.Text = "";
+                textBox1.ForeColor= Color.Black;
+            }
+        }
+
+        private void textBox1_Leave(object sender, EventArgs e)
+        {
+            if (textBox1.Text == "")
+            {
+                textBox1.Text = "Password";
+                textBox1.ForeColor= Color.Silver;
+            }
+        }
+    }
+
         //public void button_tsp (button button3)
         //{
         //    button3.flatstyle = flatstyle.flat;
@@ -55,6 +92,5 @@ namespace project_main
         //    button3.flatappearance.bordersize = 0;
         //}
 
-        
+
     }
-}

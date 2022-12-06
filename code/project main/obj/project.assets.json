@@ -8,30 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\student3\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\R Sijapati\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\upasana\\inventoryMgt\\code\\project main\\project main.csproj",
+      "projectUniqueName": "C:\\Users\\R Sijapati\\OneDrive\\Desktop\\C#\\inventory-mgt\\practice\\code\\project main\\project main.csproj",
       "projectName": "project main",
-      "projectPath": "D:\\upasana\\inventoryMgt\\code\\project main\\project main.csproj",
-      "packagesPath": "C:\\Users\\student3\\.nuget\\packages\\",
-      "outputPath": "D:\\upasana\\inventoryMgt\\code\\project main\\obj\\",
+      "projectPath": "C:\\Users\\R Sijapati\\OneDrive\\Desktop\\C#\\inventory-mgt\\practice\\code\\project main\\project main.csproj",
+      "packagesPath": "C:\\Users\\R Sijapati\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\R Sijapati\\OneDrive\\Desktop\\C#\\inventory-mgt\\practice\\code\\project main\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\student3\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\R Sijapati\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0-windows7.0"
+        "net6.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -58,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -70,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

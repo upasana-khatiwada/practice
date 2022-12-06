@@ -33,3 +33,21 @@ D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.
 D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\ref\project main.dll
 D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.pdb
 D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.AssemblyReference.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form1.resources
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.Properties.Resources.resources
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.GenerateResource.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfoInputs.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfo.cs
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CoreCompileInputs.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project main.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project main.pdb
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\bin\Debug\net6.0-windows\project main.exe
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\bin\Debug\net6.0-windows\project main.deps.json
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\bin\Debug\net6.0-windows\project main.runtimeconfig.json
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\bin\Debug\net6.0-windows\project main.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\bin\Debug\net6.0-windows\project main.pdb
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\refint\project main.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\ref\project main.dll
