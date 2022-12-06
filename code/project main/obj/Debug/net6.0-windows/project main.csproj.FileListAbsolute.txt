@@ -1,0 +1,35 @@
+D:\upasana\calculator\project main\bin\Debug\net6.0-windows\project main.exe
+D:\upasana\calculator\project main\bin\Debug\net6.0-windows\project main.deps.json
+D:\upasana\calculator\project main\bin\Debug\net6.0-windows\project main.runtimeconfig.json
+D:\upasana\calculator\project main\bin\Debug\net6.0-windows\project main.dll
+D:\upasana\calculator\project main\bin\Debug\net6.0-windows\ref\project main.dll
+D:\upasana\calculator\project main\bin\Debug\net6.0-windows\project main.pdb
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\project main.csproj.AssemblyReference.cache
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\project_main.Form1.resources
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\project main.csproj.GenerateResource.cache
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\project main.GeneratedMSBuildEditorConfig.editorconfig
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\project main.AssemblyInfoInputs.cache
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\project main.AssemblyInfo.cs
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\project main.csproj.CoreCompileInputs.cache
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\project main.dll
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\ref\project main.dll
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\project main.pdb
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
+D:\upasana\inventoryMgt\code\project main\bin\Debug\net6.0-windows\project main.exe
+D:\upasana\inventoryMgt\code\project main\bin\Debug\net6.0-windows\project main.deps.json
+D:\upasana\inventoryMgt\code\project main\bin\Debug\net6.0-windows\project main.runtimeconfig.json
+D:\upasana\inventoryMgt\code\project main\bin\Debug\net6.0-windows\project main.dll
+D:\upasana\inventoryMgt\code\project main\bin\Debug\net6.0-windows\ref\project main.dll
+D:\upasana\inventoryMgt\code\project main\bin\Debug\net6.0-windows\project main.pdb
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.csproj.AssemblyReference.cache
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project_main.Form1.resources
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project_main.Properties.Resources.resources
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.csproj.GenerateResource.cache
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.GeneratedMSBuildEditorConfig.editorconfig
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfoInputs.cache
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfo.cs
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.csproj.CoreCompileInputs.cache
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.dll
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\ref\project main.dll
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.pdb
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
