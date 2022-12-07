@@ -83,14 +83,28 @@ namespace project_main
                 textBox1.ForeColor= Color.Silver;
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide(); //hides the first form 
+            Form2 SignUpForm = new Form2();
+            SignUpForm.ShowDialog();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+
+
+
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+        }
     }
 
-        //public void button_tsp (button button3)
-        //{
-        //    button3.flatstyle = flatstyle.flat;
-        //    button3.backcolor = color.transparent;
-        //    button3.flatappearance.bordersize = 0;
-        //}
-
+      
 
     }
