@@ -54,13 +54,13 @@ namespace project_main
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //if(textBox1.Text == "" || textBox2.Text=="")
-            //{
-            //    MessageBox.Show("please enter details");
+            if(textBox1.Text == "" || textBox2.Text=="")
+            {
+               MessageBox.Show("please enter details");
 
-            //}
-            //else
-            //{
+            }
+            else
+            {
             try
             {
                 //to save the data of textbox into database
@@ -85,12 +85,13 @@ namespace project_main
             }
             catch (Exception ex)
             {
-                MessageBox.Show(textBox1.Text);
+                MessageBox.Show("error");
 
 
             }
 
         }
+    }
     }
     
     
