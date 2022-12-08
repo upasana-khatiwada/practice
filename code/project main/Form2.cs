@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -12,6 +13,11 @@ namespace project_main
 {
     public partial class Form2 : Form
     {
+        SqlConnection con = new SqlConnection(
+          @"Data Source= .\SQLEXPRESS; 
+            Initial Catalog= admin;
+            user id =sa ; 
+            password =kist@123;");
         public Form2()
         {
             InitializeComponent();
@@ -116,6 +122,46 @@ namespace project_main
 
         private void Form2_Load(object sender, EventArgs e)
         {
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //if(textBox1.Text == "" || textBox2.Text=="")
+            //{
+            //    MessageBox.Show("please enter details");
+
+            //}
+            //else
+            //{
+            try
+            {
+                //to save the data of textbox into database
+                con.Open();
+                string query = "Insert into employees1" + "( name,phone_number,password)" +
+                    "values('" +
+                    textBox1.Text +
+                    "','" + textBox2.Text +
+                    "','" + textBox3.Text +
+                    //"','" + textBox4.Text +
+                    "')";
+                SqlCommand cmd = con.CreateCommand();
+                cmd.CommandText = query;
+                cmd.ExecuteNonQuery();
+                MessageBox.Show("Your account has been created successfully");
+                con.Close();
+                //to go to login page 
+                this.Hide(); //hides the first form 
+                Form1 LoginForm = new Form1();
+                LoginForm.ShowDialog();
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(textBox1.Text);
+
+
+            }
+
         }
     }
     

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\upasana\\practice\\code\\project main\\project main.csproj": {}
+    "D:\\Sova(c#)\\inventorymgt\\practice\\code\\project main\\project main.csproj": {}
   },
   "projects": {
-    "D:\\upasana\\practice\\code\\project main\\project main.csproj": {
+    "D:\\Sova(c#)\\inventorymgt\\practice\\code\\project main\\project main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\upasana\\practice\\code\\project main\\project main.csproj",
+        "projectUniqueName": "D:\\Sova(c#)\\inventorymgt\\practice\\code\\project main\\project main.csproj",
         "projectName": "project main",
-        "projectPath": "D:\\upasana\\practice\\code\\project main\\project main.csproj",
+        "projectPath": "D:\\Sova(c#)\\inventorymgt\\practice\\code\\project main\\project main.csproj",
         "packagesPath": "C:\\Users\\student3\\.nuget\\packages\\",
-        "outputPath": "D:\\upasana\\practice\\code\\project main\\obj\\",
+        "outputPath": "D:\\Sova(c#)\\inventorymgt\\practice\\code\\project main\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -44,6 +44,12 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

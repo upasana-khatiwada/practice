@@ -70,3 +70,29 @@ D:\upasana\practice\code\project main\obj\Debug\net6.0-windows\ref\project main.
 D:\upasana\practice\code\project main\obj\Debug\net6.0-windows\project main.pdb
 D:\upasana\practice\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
 D:\upasana\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form2.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.AssemblyReference.cache
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form1.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form2.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.Properties.Resources.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.GenerateResource.cache
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfoInputs.cache
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfo.cs
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CoreCompileInputs.cache
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.dll
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\ref\project main.dll
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.pdb
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\project main.exe
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\project main.deps.json
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\project main.runtimeconfig.json
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\project main.dll
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\ref\project main.dll
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\project main.pdb
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CopyComplete
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
