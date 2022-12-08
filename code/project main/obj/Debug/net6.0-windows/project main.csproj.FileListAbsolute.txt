@@ -96,3 +96,29 @@ D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\run
 D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CopyComplete
 D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\project main.exe
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\project main.deps.json
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\project main.runtimeconfig.json
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\project main.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\project main.pdb
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.AssemblyReference.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form1.resources
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form2.resources
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project_main.Properties.Resources.resources
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.GenerateResource.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfoInputs.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfo.cs
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CoreCompileInputs.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CopyComplete
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\refint\project main.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.pdb
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\ref\project main.dll
