@@ -122,3 +122,29 @@ C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net
 C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.pdb
 C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
 C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\ref\project main.dll
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project main.dll
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\refint\project main.dll
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project main.pdb
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\project main.exe
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\project main.deps.json
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\project main.runtimeconfig.json
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\project main.dll
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\project main.pdb
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.AssemblyReference.cache
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form1.resources
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form2.resources
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project_main.Properties.Resources.resources
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.GenerateResource.cache
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project main.GeneratedMSBuildEditorConfig.editorconfig
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfoInputs.cache
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfo.cs
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CoreCompileInputs.cache
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CopyComplete
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\ref\project main.dll
