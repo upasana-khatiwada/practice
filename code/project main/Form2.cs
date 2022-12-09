@@ -27,17 +27,18 @@ namespace project_main
             label1.Parent = pictureBox1;
             label1.BackColor = Color.Transparent;
 
-            label2.Parent = pictureBox1;
-            label2.BackColor = Color.Transparent;
+            pictureBox2.BackColor = Color.Transparent;
+            pictureBox2.Parent = pictureBox1;
 
-            label3.Parent = pictureBox1;
-            label3.BackColor = Color.Transparent;
+            pictureBox4.BackColor = Color.Transparent;
+            pictureBox4.Parent = pictureBox1;
 
-            label4.Parent = pictureBox1;
-            label4.BackColor = Color.Transparent;
+            pictureBox3.BackColor = Color.Transparent;
+            pictureBox3.Parent = pictureBox1;
 
-            label5.Parent = pictureBox1;
-            label5.BackColor = Color.Transparent;
+            pictureBox5.BackColor = Color.Transparent;
+            pictureBox5.Parent = pictureBox1;
+
 
             //button1.BackColor = System.Drawing.Color.Transparent;
             //button1.Parent = pictureBox1;
@@ -365,7 +366,10 @@ namespace project_main
 
         }
 
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
 
+        }
     }
 }
 

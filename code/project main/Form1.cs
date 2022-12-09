@@ -24,13 +24,23 @@ namespace project_main
             button3.FlatStyle = FlatStyle.Flat;
             button3.FlatAppearance.BorderSize = 0;
 
-            label3.Parent = pictureBox1;
-            label3.BackColor = Color.Transparent;
-            label4.Parent = pictureBox1;
-            label4.BackColor = Color.Transparent;
+            //label3.Parent = pictureBox1;
+            //label3.BackColor = Color.Transparent;
+            //label4.Parent = pictureBox1;
+            //label4.BackColor = Color.Transparent;
 
             checkBox1.Parent = pictureBox1;
             checkBox1.BackColor = Color.Transparent;
+
+            pictureBox2.BackColor = Color.Transparent;
+            pictureBox2.Parent = pictureBox1;
+
+            pictureBox4.BackColor = Color.Transparent;
+            pictureBox4.Parent = pictureBox1;
+
+            pictureBox3.BackColor = Color.Transparent;
+            pictureBox3.Parent = pictureBox1;
+
 
         }
 
@@ -69,6 +79,47 @@ namespace project_main
             else
             {
                 textBox1.UseSystemPasswordChar = false;
+            }
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_Enter(object sender, EventArgs e)
+        {
+            if (textBox1.Text == "Username")
+            {
+                textBox1.Text = "";
+                textBox1.ForeColor = Color.Black;
+            }
+        }
+
+        private void textBox1_Leave(object sender, EventArgs e)
+        {
+            if(textBox1.Text == "")
+            {
+                textBox1.Text = "Username";
+                textBox1.ForeColor= Color.Silver;
+            }
+        }
+
+        private void textBox2_Enter(object sender, EventArgs e)
+        {
+            if (textBox2.Text == "Password")
+            {
+                textBox2.Text = "";
+                textBox2.ForeColor = Color.Black;
+            }
+        }
+
+        private void textBox2_Leave(object sender, EventArgs e)
+        {
+            if (textBox2.Text == "")
+            {
+                textBox2.Text = "Password";
+                textBox2.ForeColor= Color.Silver;
             }
         }
     }
