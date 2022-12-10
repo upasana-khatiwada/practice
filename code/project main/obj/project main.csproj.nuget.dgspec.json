@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\R Sijapati\\OneDrive\\Desktop\\C#\\practice\\code\\project main\\project main.csproj": {}
+    "C:\\Users\\admin\\Desktop\\programming\\c#\\practice\\code\\project main\\project main.csproj": {}
   },
   "projects": {
-    "C:\\Users\\R Sijapati\\OneDrive\\Desktop\\C#\\practice\\code\\project main\\project main.csproj": {
+    "C:\\Users\\admin\\Desktop\\programming\\c#\\practice\\code\\project main\\project main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\R Sijapati\\OneDrive\\Desktop\\C#\\practice\\code\\project main\\project main.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\programming\\c#\\practice\\code\\project main\\project main.csproj",
         "projectName": "project main",
-        "projectPath": "C:\\Users\\R Sijapati\\OneDrive\\Desktop\\C#\\practice\\code\\project main\\project main.csproj",
-        "packagesPath": "C:\\Users\\R Sijapati\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\R Sijapati\\OneDrive\\Desktop\\C#\\practice\\code\\project main\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Desktop\\programming\\c#\\practice\\code\\project main\\project main.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\programming\\c#\\practice\\code\\project main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\R Sijapati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

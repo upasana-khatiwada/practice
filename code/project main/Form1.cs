@@ -1,9 +1,16 @@
+using System.Data;
+using System.Data.SqlClient;
 using System.Drawing.Drawing2D;
 
 namespace project_main
 {
     public partial class Form1 : Form
     {
+        SqlConnection con = new SqlConnection(
+          @"Data Source= .\SQLEXPRESS; 
+            Initial Catalog= admin;
+            user id =sa1 ; 
+            password =kist@123;");
         public Form1()
         {
             InitializeComponent();
@@ -58,8 +65,24 @@ namespace project_main
 
         private void button1_Click(object sender, EventArgs e)
         {
+            SqlDataAdapter adapter = new SqlDataAdapter("SELECT Count(*) FROM employees1 WHERE username='" + textBox1.Text + "' and password='" + textBox2.Text + "' ", con);
+            DataTable dt = new DataTable();
+            adapter.Fill(dt);
+            if (dt.Rows[0][0].ToString() == "1")
+            {
+                this.Hide(); //hides the first form 
+                Form3 dashBoard = new Form3();
+                dashBoard.ShowDialog();
 
 
+            }
+            else
+            {
+                MessageBox.Show("details didn't matched");
+
+            }
+
+            
 
 
 

@@ -19,7 +19,7 @@ namespace project_main
         SqlConnection con = new SqlConnection(
           @"Data Source= .\SQLEXPRESS; 
             Initial Catalog= admin;
-            user id =sa ; 
+            user id =sa1 ; 
             password =kist@123;");
         public Form2()
         {
