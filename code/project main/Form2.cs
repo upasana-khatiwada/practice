@@ -19,7 +19,7 @@ namespace project_main
         SqlConnection con = new SqlConnection(
           @"Data Source= .\SQLEXPRESS; 
             Initial Catalog= admin;
-            user id =sa1 ; 
+            user id =sa ; 
             password =kist@123;");
         public Form2()
         {
@@ -367,6 +367,11 @@ namespace project_main
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBoxPassword_TextChanged(object sender, EventArgs e)
         {
 
         }

@@ -9,7 +9,7 @@ namespace project_main
         SqlConnection con = new SqlConnection(
           @"Data Source= .\SQLEXPRESS; 
             Initial Catalog= admin;
-            user id =sa1 ; 
+            user id =sa ; 
             password =kist@123;");
         public Form1()
         {
@@ -53,6 +53,11 @@ namespace project_main
 
         private void button3_Click(object sender, EventArgs e)
         {
+            //forgot password?
+            this.Hide(); //hides the first form 
+            forgotPassword SignUpForm = new forgotPassword();
+            SignUpForm.ShowDialog();
+
         }
 
 
@@ -65,7 +70,8 @@ namespace project_main
 
         private void button1_Click(object sender, EventArgs e)
         {
-            SqlDataAdapter adapter = new SqlDataAdapter("SELECT Count(*) FROM employees1 WHERE username='" + textBox1.Text + "' and password='" + textBox2.Text + "' ", con);
+            //login verification
+            SqlDataAdapter adapter = new SqlDataAdapter("SELECT Count(*) FROM employees1 WHERE name='" + textBox1.Text + "' and password='" + textBox2.Text + "' ", con);
             DataTable dt = new DataTable();
             adapter.Fill(dt);
             if (dt.Rows[0][0].ToString() == "1")
@@ -97,11 +103,12 @@ namespace project_main
             //to concele the password and show in asterick
             if (checkBox1.Checked)
             {
-                textBox1.UseSystemPasswordChar = true;
+                textBox2.UseSystemPasswordChar =false;
+
             }
             else
             {
-                textBox1.UseSystemPasswordChar = false;
+                textBox2.UseSystemPasswordChar = true;
             }
         }
 
@@ -130,19 +137,29 @@ namespace project_main
 
         private void textBox2_Enter(object sender, EventArgs e)
         {
-            if (textBox2.Text == "Password")
+            
+            String password = textBox2.Text;
+            if (password.ToLower().Trim().Equals("password"))
             {
                 textBox2.Text = "";
+                textBox2.UseSystemPasswordChar = true;
                 textBox2.ForeColor = Color.Black;
             }
         }
 
         private void textBox2_Leave(object sender, EventArgs e)
         {
-            if (textBox2.Text == "")
+            //if (textBox2.Text == "")
+            //{
+            //    textBox2.Text = "Password";
+            //    textBox2.ForeColor= Color.Silver;
+            //}
+            String password = textBox2.Text;
+            if (password.ToLower().Trim().Equals("password") || password.Trim().Equals(""))
             {
-                textBox2.Text = "Password";
-                textBox2.ForeColor= Color.Silver;
+                textBox2.Text = "password";
+                textBox2.UseSystemPasswordChar = false;
+                textBox2.ForeColor = Color.Gray;
             }
         }
     }

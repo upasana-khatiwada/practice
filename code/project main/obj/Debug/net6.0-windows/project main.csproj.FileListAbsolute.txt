@@ -175,3 +175,5 @@ C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.
 C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
 C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.0-windows\ref\project main.dll
 C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form3.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form3.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.forgotPassword.resources

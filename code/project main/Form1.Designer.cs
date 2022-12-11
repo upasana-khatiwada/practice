@@ -163,10 +163,8 @@
             this.textBox2.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.textBox2.ForeColor = System.Drawing.SystemColors.InactiveCaption;
             this.textBox2.Location = new System.Drawing.Point(443, 201);
-            this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
-            this.textBox2.PasswordChar = '*';
-            this.textBox2.Size = new System.Drawing.Size(244, 40);
+            this.textBox2.Size = new System.Drawing.Size(244, 35);
             this.textBox2.TabIndex = 14;
             this.textBox2.Text = "Password";
             this.textBox2.Enter += new System.EventHandler(this.textBox2_Enter);
@@ -212,6 +210,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
