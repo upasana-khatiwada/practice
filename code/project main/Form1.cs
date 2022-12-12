@@ -77,8 +77,8 @@ namespace project_main
             if (dt.Rows[0][0].ToString() == "1")
             {
                 this.Hide(); //hides the first form 
-                Form3 dashBoard = new Form3();
-                dashBoard.ShowDialog();
+                Form3 menu = new Form3();
+                menu.ShowDialog();
 
 
             }

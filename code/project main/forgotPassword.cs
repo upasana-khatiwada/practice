@@ -41,6 +41,9 @@ namespace project_main
                         cmd.Parameters.AddWithValue("@pass", textBox2.Text);
                         cmd.ExecuteNonQuery();
                         MessageBox.Show("Your Password Has Been Updated");
+                        this.Hide(); //hides the first form 
+                        Form1 LoginForm = new Form1();
+                        LoginForm.ShowDialog();
                     }
                     else
                     {

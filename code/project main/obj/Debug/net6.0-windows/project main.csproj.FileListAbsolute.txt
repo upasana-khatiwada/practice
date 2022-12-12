@@ -177,3 +177,8 @@ C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.
 C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form3.resources
 D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form3.resources
 D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.forgotPassword.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.DashBoard.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.AllTransactions.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.LowStock.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.products.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.Setting.resources
